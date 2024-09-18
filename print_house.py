@@ -21,7 +21,8 @@ def main():
     print('   +   ')
     print('  + +  ')
     print(' +   + ')
-    # YOUR CODE HERE
+    print('+-----+')
+
 
 
 if __name__ == '__main__':
