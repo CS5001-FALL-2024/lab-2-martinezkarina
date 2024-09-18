@@ -21,7 +21,7 @@ Your alarm will expire at 3.
 '''
 
 def main():
-    current_time = int(input("What time is it?"))
+    current_time = int(input("What time is it"))
     alarm = int(input("How long until your alarm expires?"))
     if alarm : 6
     alarm_time = (current_time + alarm) % 24
