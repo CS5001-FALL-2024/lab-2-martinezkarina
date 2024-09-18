@@ -2,7 +2,7 @@
     CS 5001
     Lab 1
     Exercise 4
-    Name:
+    Name: Karina Martinez
 '''
 
 '''
@@ -21,7 +21,10 @@ Your alarm will expire at 3.
 '''
 
 def main():
-    # YOUR CODE HERE
-
+    current_time = int(input("What time is it?"))
+    alarm = int(input("How long until your alarm expires?"))
+    if alarm : 6
+    alarm_time = (current_time + alarm) % 24
+    print(f'Your alarm_time will expire at {alarm_time}.')
 if __name__ == '__main__':
     main()
