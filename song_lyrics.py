@@ -2,7 +2,7 @@
     CS 5001
     Lab 1
     Exercise 2
-    Name:
+    Name: Karina Martinez
 '''
 
 '''
@@ -12,8 +12,19 @@ lyric on one single line using print.
 '''
 
 def main():
-    # YOUR CODE HERE
-
-
+    # Baby by Justin Bieber Song Lyrics
+    variable1 = "Baby,"
+    variable2 = "baby,"
+    variable3 = "baby,"
+    variable4 = "oh"
+    variable5 = "I"
+    variable6 = "thought"
+    variable7 = "you'd"
+    variable8 = "always"
+    variable9 = "be"
+    variable10 = "mine"
+    
+    print(variable1, variable2, variable3, variable4, variable5, variable6, variable7, variable8, variable9, variable10)
+    
 if __name__ == '__main__':
     main()
